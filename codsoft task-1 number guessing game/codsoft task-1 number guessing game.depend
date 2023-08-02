@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1690900153 source:c:\users\indsa\desktop\codsoft task 1- number guessing game\codsoft task-1 number guessing game\main.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+
