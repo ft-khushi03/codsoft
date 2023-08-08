@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1691482130 source:c:\users\indsa\desktop\cofcoft task 4\codsoft task-4 word count\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
